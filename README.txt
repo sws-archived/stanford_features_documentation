@@ -1,6 +1,7 @@
-This is a UML model for documenting the SWS features. 
 
-This model is created using a modeling tool called ArgoUML. This free tool can be downloaded at:
+The UML Model:
+In this repository we have a UML model and subsequent PDFs which document our features stack.
+This model is created using a modeling tool called ArgoUML. If you want to update the model, this free tool can be downloaded at:
 http://argouml.tigris.org/
 
 JSA Content model is documented at:
